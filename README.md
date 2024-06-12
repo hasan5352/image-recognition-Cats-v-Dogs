@@ -10,5 +10,5 @@
 2.  Visualisation of raw data
 3.  Data Analysis: checking class imbalance
 4.  Preprocessing: img to tensor, normalising pixels, encoding labels, stadardize image size, validation split
-5.  Build training and validation generators for batch processing which handles preprocessing tasks also
-6.  
+   - Build training and validation generators for batch processing which handles preprocessing tasks also
+5.  
